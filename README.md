@@ -8,10 +8,9 @@ Welcome to the Layoff Analysis repository! This repository contains data and ana
 - [Data Cleaning](#data-cleaning)
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 - [SQL Queries](#sql-queries)
-- [Data Visualization](#data-visualization)
 - [Conclusion](#conclusion)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 The Layoff Analysis project aims to analyze and understand trends in layoffs across different companies, industries, and regions. The dataset includes information about companies, locations, industries, total layoffs, percentages of layoffs, dates, stages, countries, and funds raised.
